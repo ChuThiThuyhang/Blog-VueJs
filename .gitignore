@@ -5,9 +5,14 @@
 /public/hot
 /storage/*.key
 /storage/files
+/storage/app
+/storage/debugbar
+/storage/framework
+/storage/logs
 /resources/assets/bower
 /vendor
 /.idea
+/.docker
 /resource/assets/js/laroute.js
 Homestead.json
 Homestead.yaml

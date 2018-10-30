@@ -11,6 +11,7 @@ class HomeController extends FrontendController
 
     public function index()
     {
+    	dd("ahfjdshk");
         parent::index();
 
         return $this->viewRender();
